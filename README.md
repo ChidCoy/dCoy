@@ -1,6 +1,6 @@
 # about me
 ## *ChidCoy*
-<!-- ### 
+
 **Born and raised Rogers Park**
 
 
@@ -14,4 +14,4 @@
 
 
 
-   <!-- line 16
+  
